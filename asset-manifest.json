@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_APP_Using_Props_Sample_Code/static/css/main.df4aec78.chunk.css",
+    "main.js": "/React_APP_Using_Props_Sample_Code/static/js/main.80213894.chunk.js",
+    "main.js.map": "/React_APP_Using_Props_Sample_Code/static/js/main.80213894.chunk.js.map",
+    "runtime-main.js": "/React_APP_Using_Props_Sample_Code/static/js/runtime-main.a1df8ffa.js",
+    "runtime-main.js.map": "/React_APP_Using_Props_Sample_Code/static/js/runtime-main.a1df8ffa.js.map",
+    "static/js/2.161811f4.chunk.js": "/React_APP_Using_Props_Sample_Code/static/js/2.161811f4.chunk.js",
+    "static/js/2.161811f4.chunk.js.map": "/React_APP_Using_Props_Sample_Code/static/js/2.161811f4.chunk.js.map",
+    "index.html": "/React_APP_Using_Props_Sample_Code/index.html",
+    "static/css/main.df4aec78.chunk.css.map": "/React_APP_Using_Props_Sample_Code/static/css/main.df4aec78.chunk.css.map",
+    "static/js/2.161811f4.chunk.js.LICENSE.txt": "/React_APP_Using_Props_Sample_Code/static/js/2.161811f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1df8ffa.js",
+    "static/js/2.161811f4.chunk.js",
+    "static/css/main.df4aec78.chunk.css",
+    "static/js/main.80213894.chunk.js"
+  ]
+}
